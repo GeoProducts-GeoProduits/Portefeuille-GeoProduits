@@ -1,6 +1,6 @@
 Le but de cette page Github est de fournir un portfolio de projets interactifs en ligne.
 
-# Portefeuille GéoProduits
+# Portfolio de GéoProduits
 
 GeoProducts falls within the GeoDiscovery and builds on the principals of GeoDiscovery in providing value for Canadians and the Government of Canada. The portfolio highlights select recent projects developed and supported by GeoProducts. Each example highlights the analytics, applications, cartography and design used to create products that meet a wide variety of needs, from responding to government priorities to sharing geographic knowledge with Canadians.
 
